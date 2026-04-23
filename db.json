@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "title": "Revealed: 19 Things to Know Before You Start a Blog",
+      "description": "Do you want to start a blog? This is the post you need to read before you do anything. It will save you time, money, and help you avoid beginner mistakes that most people make.",
+      "category": "Books",
+      "date": "2026-04-07",
+      "image": "https://img.freepik.com/premium-vector/blogs-isolated-cartoon-vector-illustration_107173-27854.jpg",
+      "author": "admin",
+      "id": "7n3zJPrH6-g"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
